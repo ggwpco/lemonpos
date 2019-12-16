@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.jumbotron {
+    background: #FFF069;
+    height: 550px;
+    margin-bottom: 0;
+
+}
+
+.buttonwrap {
+    text-align: center;
+    background: linear-gradient(to bottom, #FFF069 50%, white 50%);
+}
+
+.button {
+    position: absolute;
+    top: 80%;
+    background: white;
+}
+
+.btn-outline-dark {
+background: white;
+}
+
+.btn-group-lg>.btn, .btn-lg{
+font-size: 1.8rem;
+}
+
+.text-center img{
+    height: 220px;
+}
+
+.headd{
+    display: inline-block;
+}
+.headd h1 {
+margin-top: 50px;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 59px;
+display: flex;
+align-items: center;
+text-align: center;
+border: 1;
+
+}
+.headd p {
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 35px;
+display: flex;
+align-items: center;
+text-align: center;
+}
+
+.container{
+    text-align: center;
+}
+
+.card-deck{
+    margin-top: 50px;
+}
+
+.card img{
+    width: 160px;
+    height: 160px;
+    text-align: center;
+}
+
+.card p{
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+align-items: center;
+text-align: center
+}
+
+.card h5{
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 35px;
+align-items: center;
+text-align: center;
+}
+
+.card{
+border:white;
+}
+
